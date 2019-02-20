@@ -10,4 +10,5 @@ int main()
 			vm.ExecuteInstructions();
 		}
 	}
+	return 0;
 }
