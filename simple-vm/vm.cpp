@@ -88,7 +88,6 @@ namespace VM
 					default:
 					{
 						std::cout << "VM: Unknown instruction skipped." << std::endl;
-						break;
 					}
 				}
 			}

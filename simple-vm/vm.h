@@ -30,7 +30,7 @@ namespace VM
 		public:
 			VirtualMachine();
 
-			inline bool IsExecuting()
+			inline bool IsExecuting() const
 			{
 				return is_executing;
 			}
